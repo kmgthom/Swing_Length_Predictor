@@ -7,4 +7,5 @@ The properties of the pitch were found to be more important in predicting swing 
 
 ## Data
 https://statds.org/events/csas2025/challenge.html
+
 File used: statcast_pitch_swing_data_20240402_20241030_with_arm_angle2.csv
